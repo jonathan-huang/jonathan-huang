@@ -1,9 +1,3 @@
-- 👋 Hi, I’m @jonathan-huang
-- 👀 I’m interested in biophysics, simulation, and material science
-- 💞️ 
-- 📫 How to reach me: email at huang20041014@gmail.com
+Hi, I’m @jonathan-huang. I’m a student of physics in National Taiwan University. I am interested in biophysics and mathematical physics.
 
-<!---
-jonathan-huang/jonathan-huang is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+How to reach me: email at huang20041014@gmail.com | instagram: h20041014
